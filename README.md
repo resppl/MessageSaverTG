@@ -6,21 +6,21 @@ A special script has been developed to ensure the preservation of personal messa
 
 Upon receiving a message from a user, a folder is automatically created, named after their ID, with their Telegram username in parentheses. Inside this folder, additional subfolders are created:
 
-    📸 **media**: For storing media files.
-    💬 **stickers**: For storing sticker files.
-    🖼️ **photo**: For storing photos.
+    📸 media: For storing media files.
+    💬 stickers For storing sticker files.
+    🖼️ photo For storing photos.
 
 # 🌐 log.html Page Generation
 
 As soon as a user sends you a message or you initiate a conversation, a webpage named log.html is generated in the corresponding folder (with the user’s ID and username). This webpage displays user information:
 
-    📱 **Telegram ID**
-    🧑‍💼 **Full name**
-    🏷️ **Username**
-    📞 **Phone number**
-    🌐 **TON Web 3.0 address**
-    🖼️ **Profile picture (if available)**
-    💬 **Message History**
+    📱 Telegram ID
+    🧑‍💼 Full name
+    🏷️ Username
+    📞 Phone number
+    🌐 TON Web 3.0 address
+    🖼️ Profile picture (if available)
+    💬 Message History
 
 At the bottom of the page, incoming and outgoing messages are listed. For each message, attached media files can be viewed via hyperlinks.
 
@@ -60,21 +60,21 @@ By following these steps, you will be able to set up and run the script on your 
 
 При получении сообщения от пользователя автоматически создается папка, названная по его ID, с указанием имени пользователя Telegram в скобках. Внутри этой папки создаются дополнительные вложенные папки:
 
-    📸 **media**: Для хранения медиафайлов.
-    💬 **стикеры**: Для хранения файлов наклеек.
-    🖼️ **photo**: Для хранения фотографий.
+    📸 media: Для хранения медиафайлов.
+    💬 stickers: Для хранения файлов наклеек.
+    🖼️ photo: Для хранения фотографий.
 
 # 🌐 log.html Создание страницы
 
 Как только пользователь отправляет вам сообщение или вы начинаете разговор, в соответствующей папке (с идентификатором и именем пользователя) создается веб-страница с именем log.html. На этой веб-странице отображается информация о пользователе:
 
-    📱 **Telegram ID**
-    🧑‍💼 **Полное имя**
-    🏷️ **Имя пользователя**
-    📞 **Номер телефона**
-    🌐 **Адрес Web 3.0**
-    🖼️ **Фотография профиля (если есть)**
-    💬 **История сообщений**
+    📱 Telegram ID
+    🧑‍💼 Полное имя
+    🏷️ Имя пользователя
+    📞 Номер телефона
+    🌐 Адрес Web 3.0
+    🖼️ Фотография профиля (если есть)
+    💬 История сообщений
 
 В нижней части страницы перечислены входящие и исходящие сообщения. Для каждого сообщения можно просмотреть прикрепленные медиафайлы с помощью гиперссылок.
 
